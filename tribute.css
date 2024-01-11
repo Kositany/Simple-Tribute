@@ -1,0 +1,40 @@
+
+main{
+  background-color: #dfdfdf;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#title{
+  text-align: center;
+  font-size: 2em;
+  color: #26272bcf
+}
+#image{
+  display: block;
+  justify-content: center;
+  align-items: center;
+  opacity: 90%;
+  margin: 0px auto;
+  max-width: 100%;
+  height: auto;
+}
+#img-caption{
+  text-align: center;
+  margin-top: 1px;
+  font-style: italic;
+  font-weight: bold;
+}
+#tribute-info{
+  text-align: center;
+}
+#tribute-link a{
+  color: #26272bcf;
+  text-decoration: none;
+  font-size: 20px
+}
+#tribute-link{
+  text-align: center;
+  padding-bottom: 14px
+}
+#tribute-link a:hover{
+  color: black;
+}
